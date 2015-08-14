@@ -7,7 +7,7 @@
 # Created: 2015-08-12
 # TODO:
 
-IN_FILE="/cygdrive/c/users/sheacd/temp/PublicRadio/NPR-Stations-By-State-Edit.txt"
+IN_FILE="/cygdrive/c/users/sheacd/temp/PublicRadio/NPR-Stations-By-State-Edit.html"
 # remove all html tags and blank lines
 mapfile -t arr < <(sed "s/<[^>]\{1,\}>//g" "${IN_FILE}" | sed '/^$/d')
 
