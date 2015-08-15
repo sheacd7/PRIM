@@ -1,0 +1,294 @@
+Alabama Birmingham WBHM 90.3 FM
+Alabama Dothan WRWA 88.7 FM
+Alabama Gadsden WSGN 91.5 FM
+Alabama Huntsville WJAB 90.9 FM
+Alaska Anchorage KSKA 91.1 FM
+Alaska Anchorage KNBA 90.3 FM
+Alaska Barrow KBRW 680 AM
+Alaska Barrow KBRW-FM 91.9 FM
+Alaska Bethel KYUK 640 AM
+Alaska Chevak KCUK 88.1 FM
+Alaska Dillingham KDLG 670 AM
+Alaska Fairbanks KUAC 89.9 FM
+Alaska Galena KIYU 910 AM
+Alaska Glennallen KXGA 90.5 FM
+Arizona Flagstaff KPUB 91.7 FM
+Arizona Flagstaff KNAU 88.7 FM
+Arizona Grand Canyon KNAG 90.3 FM
+Arizona Hotevilla KUYI 88.1 FM
+Arizona Page KNAD 91.7 FM
+Arkansas El Dorado KBSA 90.9 FM
+Arkansas Fayetteville KUAF 91.3 FM
+California Angwin KDFC 89.9 FM
+California Arcata KHSU 90.5 FM
+California Bakersfield KPRX 89.1 FM
+California Bayside KNHM 91.5 FM
+California Burney KNCA 89.7 FM
+California Calexico KQVO 97.7 FM
+California Chico KCHO 91.7 FM
+California Coachella KVLA-FM 90.3 FM
+California Crescent City KHSR 91.9 FM
+California Fresno KVPR 89.3 FM
+California Groveland KXSR 91.7 FM
+California Indio KCRI 89.3 FM
+California Los Angeles KPCC 89.3 FM
+California Los Angeles KCRW 89.9 FM
+California Los Angeles KUSC 91.5 FM
+California McCloud KLDD 91.9 FM
+California Mendocino KPMO 1300 AM
+California Mojave KCRY 88.1 FM
+California Morro Bay KESC 99.7 FM
+Colorado Alamosa KRZA 88.7 FM
+Colorado Aspen KAJX 91.5 FM
+Colorado Boulder KCFC 1490 AM
+Colorado Carbondale KCJX 88.9 FM
+Colorado Carbondale KDNK 88.1 FM
+Colorado Carbondale KVOV 90.5 FM
+Colorado Colorado Springs KRCC 91.5 FM
+Colorado Cortez KSJD 91.5 FM
+Colorado Craig KPYR 88.3 FM
+Colorado Crested Butte KBUT 90.3 FM
+Connecticut Fairfield WSHU-FM 91.1 FM
+Connecticut Fairfield WVOF 88.5 FM
+Connecticut Meriden WNPR 90.5 FM
+Connecticut Middletown WESU 88.1 FM
+Delaware Dover WRTX 91.7 FM
+District of Columbia Washington WAMU 88.5 FM
+Florida Ft. Myers WGCU-FM 90.1 FM
+Florida Ft. Pierce WQCS 88.9 FM
+Florida Gainesville WUFT-FM 89.1 FM
+Florida Inverness WJUF 90.1 FM
+Florida Jacksonville WJCT-FM 89.9 FM
+Florida Marathon/Key West WKWM 91.5 FM
+Florida Marco WMKO 91.7 FM
+Georgia Albany WUNV 91.7 FM
+Georgia Athens WUGA 91.7 FM
+Georgia Atlanta WABE 90.1 FM
+Georgia Atlanta WCLK 91.9 FM
+Georgia Augusta WACG-FM 90.7 FM
+Georgia Brunswick WWIO-FM 89.1 FM
+Georgia Carrollton WUWG 90.7 FM
+Hawaii Hilo KANO 91.1 FM
+Hawaii Honolulu KHPR 88.1 FM
+Idaho Boise KBSU-FM 90.3 FM
+Idaho Boise KBSX 91.5 FM
+Idaho Bonners Ferry KIBX 92.1 FM
+Idaho Burley KBSY 88.5 FM
+Idaho Cottonwood KNWO 90.1 FM
+Illinois Carbondale WSIU 91.9 FM
+Illinois Chicago WBEZ 91.5 FM
+Illinois DeKalb WNIJ 89.5 FM
+Illinois Edwardsville WSIE 88.7 FM
+Illinois Elgin WEPS 88.9 FM
+Illinois Freeport WNIE 89.1 FM
+Illinois Galesburg WVKC 90.7 FM
+Illinois Glen Ellyn WDCB 90.9 FM
+Indiana Anderson WBSB 89.5 FM
+Indiana Bloomington WFIU 103.7 FM
+Indiana Chestertown WBEW 89.5 FM
+Indiana Crawfordsville WNDY 91.3 FM
+Indiana Elkhart WVPE 88.1 FM
+Indiana Evansville WNIN-FM 88.3 FM
+Iowa Ames WOI 640 AM
+Iowa Ames WOI-FM 90.1 FM
+Iowa Bettendorf KNSB 91.1 FM
+Iowa Carroll KNSC 90.7 FM
+Iowa Cedar Falls KHKE 89.5 FM
+Iowa Cedar Falls KUNI 90.9 FM
+Iowa Cedar Rapids KCCK-FM 88.3 FM
+Iowa Council Bluffs KIWR 89.7 FM
+Kansas Emporia KANH 89.7 FM
+Kansas Garden City KANZ 91.1 FM
+Kansas Great Bend KHCT 90.9 FM
+Kansas Hays KZAN 91.7 FM
+Kentucky Bowling Green WKYU-FM 88.9 FM
+Kentucky Corbin WEKF 88.5 FM
+Kentucky Elizabethtown WKUE 90.9 FM
+Kentucky Hazard WEKH 90.9 FM
+Kentucky Henderson WKPB 89.5 FM
+Louisiana Alexandria KLSA 90.7 FM
+Louisiana Baton Rouge WBRH 90.3 FM
+Louisiana Baton Rouge WRKF 89.3 FM
+Maine Bangor WMEH 90.9 FM
+Maine Calais WMED 89.7 FM
+Maryland Baltimore WEAA 88.9 FM
+Maryland Baltimore WYPR 88.1 FM
+Maryland Frederick WYPF 88.1 FM
+Maryland Frostburg WFWM 91.9 FM
+Massachusetts Amherst WFCR 88.5 FM
+Massachusetts Boston WBUR-FM 90.9 FM
+Massachusetts Boston WGBH 89.7 FM
+Massachusetts Boston WUMB-FM 91.9 FM
+Massachusetts Brewster WZAI 94.3 FM
+Massachusetts Deerfield WNNZ-FM 91.7 FM
+Massachusetts Falmouth WFPB-FM 91.9 FM
+Massachusetts Great Barrington WAMQ 105.1 FM
+Michigan Allendale WGVU-FM 88.5 FM
+Michigan Alpena WCML-FM 91.7 FM
+Michigan Ann Arbor WUOM 91.7 FM
+Michigan Bay City WUCX-FM 90.1 FM
+Michigan Berrien Springs WAUS 90.7 FM
+Michigan Detroit WDET-FM 101.9 FM
+Michigan East Jordan WICV 100.9 FM
+Michigan East Lansing WKAR 870 AM
+Michigan East Lansing WKAR-FM 90.5 FM
+Michigan Flint WFUM 91.1 FM
+Minnesota Appleton KNCM 88.5 FM
+Minnesota Appleton KRSU 91.3 FM
+Minnesota Austin KNSE 90.1 FM
+Minnesota Bemidji KCRB-FM 88.5 FM
+Minnesota Bemidji KNBJ 91.3 FM
+Minnesota Brainerd KBPN 88.3 FM
+Minnesota Brainerd KBPR 90.7 FM
+Minnesota Buhl WIRN 92.5 FM
+Minnesota Collegeville-St. Cloud KNSR 88.9 FM
+Minnesota Collegeville-St. Cloud KSJR-FM 90.1 FM
+Minnesota Cloquet WSCN 100.5 FM
+Minnesota Duluth KUMD-FM 103.3 FM
+Minnesota Duluth WSCD-FM 92.9 FM
+Minnesota Fergus Falls KCMF 89.7 FM
+Mississippi Biloxi WMAH-FM 90.3 FM
+Mississippi Booneville WMAE-FM 89.5 FM
+Mississippi Bude WMAU-FM 88.9 FM
+Mississippi Greenwood WMAO-FM 90.9 FM
+Missouri Branson KSMS-FM 90.5 FM
+Missouri Cape Girardeau KRCU 90.9 FM
+Missouri Chillicothe KRNW 88.9 FM
+Missouri Columbia KBIA 91.3 FM
+Montana Billings KEMC 91.7 FM
+Montana Bozeman KBMC 102.1 FM
+Montana Bozeman KGLT 91.9 FM
+Montana Butte KAPC 91.3 FM
+Nebraska Alliance KTNE-FM 91.1 FM
+Nebraska Bassett KMNE-FM 90.3 FM
+Nebraska Chadron KCNE-FM 91.9 FM
+Nebraska Hastings KHNE-FM 89.1 FM
+Nevada Elko KNCC 91.5 FM
+Nevada Jackpot KBSJ 91.3 FM
+Nevada Las Vegas KCNV 89.7 FM
+New Hampshire Concord WEVO 89.1 FM
+New Hampshire Gorham WEVC 107.1 FM
+New Jersey Atlantic City WNJN-FM 89.7 FM
+New Jersey Berlin WNJS-FM 88.1 FM
+New Jersey Bridgeton WNJB-FM 89.3 FM
+New Jersey Cape May WNJZ 90.3 FM
+New Mexico Albuquerque KANW 89.1 FM
+New Mexico Albuquerque KUNM 89.9 FM
+New Mexico Dulce KCIE-FM 90.5 FM
+New York Albany WAMC 1400 AM
+New York Albany WAMC-FM 90.3 FM
+New York Binghamton WSKG-FM 89.3 FM
+New York Binghamton WSQX-FM 91.5 FM
+New York Blue Mtn. Lake WXLH 91.3 FM
+New York Boonville WXLB 91.7 FM
+New York Brooklyn WNYE 91.5 FM
+New York Brookville WCWP 88.1 FM
+New York Buffalo WBFO 88.7 FM
+New York Buffalo WNED-FM 94.5 FM
+New York Canajoharie WCAN 93.3 FM
+New York Canton WSLU 89.5 FM
+New York Cape Vincent WSLZ 88.1 FM
+New York Corning WSQE 91.1 FM
+New York Fredonia WCVF-FM 91.3 FM
+New York Geneva WEOS 89.5 FM
+New York Gouverneur WXLB 90.5 FM
+New York Hamilton WRCU-FM 90.1 FM
+New York Hornell WSQA 88.7 FM
+North Carolina Asheville WCQS 88.1 FM
+North Carolina Atlantic Beach WBJD 91.5 FM
+North Carolina Buxton WBUX 90.5 FM
+North Carolina Chapel Hill WUNC 91.5 FM
+North Carolina Charlotte WFAE 90.7 FM
+North Carolina Davidson WDAV 89.9 FM
+North Carolina Durham WNCU 90.7 FM
+North Carolina Elizabeth City WRVS-FM 89.9 FM
+North Dakota Belcourt KEYA 88.5 FM
+North Dakota Bismarck KCND 90.5 FM
+North Dakota Dickinson KDPR 89.9 FM
+Ohio Athens WOUB 1340 AM
+Ohio Athens WOUB-FM 91.3 FM
+Ohio Bryan WGBE 90.9 FM
+Ohio Cambridge WOUC-FM 89.1 FM
+Ohio Chillicothe WOUH-FM 91.9 FM
+Ohio Cincinnati WGUC 90.9 FM
+Ohio Cincinnati WVXU 91.7 FM
+Ohio Cleveland WCPN 90.3 FM
+Ohio Columbus WCBE 90.5 FM
+Ohio Columbus WVSG 820 AM
+Oklahoma Ada KOUA 91.9 FM
+Oklahoma Altus KOCU 90.1 FM
+Oklahoma Ardmore KLCU 90.3 FM
+Oklahoma Clinton KYCU 89.1 FM
+Oregon Ashland KAGI 930 AM
+Oregon Ashland KSJK 1230 AM
+Oregon Ashland KSMF 89.1 FM
+Oregon Ashland KSRG 88.3 FM
+Oregon Ashland KSOR 90.1 FM
+Oregon Astoria KMUN 91.9 FM
+Oregon Bend KOAB-FM 91.3 FM
+Oregon Coos Bay KSBA 88.5 FM
+Oregon Corvallis KOAC 550 AM
+Pennsylvania Allentown WDIY 88.1 FM
+Pennsylvania Erie WQLN-FM 91.3 FM
+Pennsylvania Harrisburg WITF-FM 89.5 FM
+Pennsylvania Johnstown WQEJ 89.7 FM
+Pennsylvania Kane WPSX 90.1 FM
+Pennsylvania Middletown WXPH 88.7 FM
+Rhode Island Providence WRNI 1290 AM
+South Carolina Aiken WLJK 89.1 FM
+South Carolina Beaufort WJWJ-FM 89.9 FM
+South Carolina Charleston WSCI 89.3 FM
+South Dakota Brookings KESD 88.3 FM
+South Dakota Faith KPSD-FM 97.1 FM
+South Dakota Lowry KQSD-FM 91.9 FM
+Tennessee Chattanooga WUTC 88.1 FM
+Tennessee Collegedale WSMC-FM 90.5 FM
+Tennessee Cookeville WHRS 91.7 FM
+Tennessee Dyersburg WKNQ 90.7 FM
+Texas Abilene KACU 89.5 FM
+Texas Amarillo KJJP 105.7 FM
+Texas Austin KUT 90.5 FM
+Texas Beaumont KVLU 91.3 FM
+Texas Bushland KTXP 91.5 FM
+Texas College Station KAMU-FM 90.9 FM
+Texas College Station KEOS 89.1 FM
+Texas Commerce KETR 88.9 FM
+Texas Corpus Christi KEDT-FM 90.3 FM
+Texas Dallas-Fort Worth KERA 90.1 FM
+Texas Dallas-Fort Worth KKXT 91.7 FM
+Texas Denton KNTU 88.1 FM
+Utah Logan KUSU-FM 91.5 FM
+Utah Logan KUSR 89.5 FM
+Utah Moab KUST 88.7 FM
+Vermont Bennington WBTN-FM 94.3 FM
+Vermont Burlington WVPS 107.9 FM
+Virginia Charlottesville WVTU 89.3 FM
+Virginia Charlottesville WVTW 88.5 FM
+Virginia Charlottesville WMRY 103.5 FM
+Virginia Chase City WMVE 90.1 FM
+Virginia Christiansburg WWVT 1260 AM
+Virginia Farmville WMLU 91.3 FM
+Washington Bellingham KZAZ 91.7 FM
+Washington Chehalis KSWS 88.9 FM
+Washington Chelan KHNW 88.3 FM
+Washington Clarkston KNWV 90.5 FM
+Washington Ellensburg KNWR 90.7 FM
+Washington Forks KNWU 91.5 FM
+Washington Moses Lake KLWS 91.5 FM
+West Virginia Beckley WVBY 91.7 FM
+West Virginia Buckhannon WVPW 88.9 FM
+West Virginia Charleston WVPB 88.5 FM
+Wisconsin Auburndale WLBL 930 AM
+Wisconsin Brule WHSA 89.9 FM
+Wisconsin Delafield WHAD 90.7 FM
+Wisconsin Eau Claire WUEC 89.7 FM
+Wisconsin Green Bay WHID 88.1 FM
+Wisconsin Green Bay WPNE 89.3 FM
+Wisconsin Hayward WOJB 88.9 FM
+Wisconsin Highland WHHI 91.3 FM
+Wisconsin Kenosha WGTD 91.1 FM
+Wyoming Afton KUWA 91.3 FM
+Wyoming Buffalo KBUW 90.5 FM
+Wyoming Casper KUWC 91.3 FM
+Wyoming Douglas KDUW 91.7 FM
+Wyoming Ethete KWRR 89.5 FM
