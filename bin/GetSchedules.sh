@@ -16,6 +16,7 @@
 #     WVTW, http://www.wvtf.org
 #     WWVT, http://www.wvtf.org
 #     WXLB, http://www.northcountrypublicradio.org
+#     WSLG, http://www.northcountrypublicradio.org
 #   - from URLs, need to extract program/schedule
 #   - sister stations (identical programs, different call signs)
 
@@ -37,13 +38,12 @@ mapfile -t callsigns < <( sed '/^$/d' "${STATION_LIST}" | grep -E -o "[WK][A-Z]{
 # build array of homepages for each station from wikipedia
 declare -A urls
 for callsign in "${callsigns[@]}"; do 
-  # try wiki website link
-  wiki_href="$( grep -m 1 ">${callsign}<" "${NPR_WIKI}" )"
-  wiki_href="${wiki_href##*href=\"}"
-  wiki_href="${wiki_href%%\"\ *}"
-  #| grep -o "/wiki/${callsign}[^\"]\{0,\}" )"
   WIKI_FILE="${OUT_DIR}"/"${callsign}"-wiki.html
   if [[ ! -f "${WIKI_FILE}" ]]; then
+    # try wiki website link
+    wiki_href="$( grep -m 1 ">${callsign}<" "${NPR_WIKI}" )"
+    wiki_href="${wiki_href##*href=\"}"
+    wiki_href="${wiki_href%%\"\ *}"
     curl -o "${WIKI_FILE}" https://en.wikipedia.org"${wiki_href}"
   fi
   link="$(grep -m 1 -A 1 "Website" "${WIKI_FILE}" | grep -o "href=[^>]\{1,\}>")"
@@ -52,9 +52,9 @@ for callsign in "${callsigns[@]}"; do
   urls["${callsign}"]="${link%/}"
 done
 
-for callsign in "${!urls[@]}"; do 
+for callsign in "${callsigns[@]}"; do # "${!urls[@]}"; do 
   printf '%s, %s\n' "$callsign" "${urls[$callsign]}"
-done | sort > "${STATION_URLS}"
+done | sort #> "${STATION_URLS}"
 
 # scratch
 # curl -o "${WIKI_FILE}" http://radio-locator.com/cgi-bin/finder?sr=Y&s=C&call="${callsign}"&x=0&y=0

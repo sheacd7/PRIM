@@ -1,4 +1,3 @@
-href="http://www.wtbbl.org/ERRShow.aspx
 KACU, http://www.kacu.org
 KAGI, http://www.ijpr.org
 KAJX, http://www.aspenpublicradio.org
@@ -52,7 +51,7 @@ KGLT, http://www.kglt.net
 KHCT, http://www.radiokansas.org
 KHKE, http://www.iowapublicradio.org/classical
 KHNE-FM, http://netnebraska.org/radio
-KHNW, http://www.nwpr.org">
+KHNW, http://www.nwpr.org
 KHPR, http://www.hawaiipublicradio.org
 KHSR, http://www.khsu.org
 KHSU, http://www.khsu.org
@@ -257,6 +256,7 @@ WSHU-FM, http://www.wshu.org
 WSIE, http://www.wsie.com
 WSIU, http://www.wsiu.org
 WSKG-FM, http://www.wskg.org
+WSLG, http://www.northcountrypublicradio.org
 WSLU, http://www.northcountrypublicradio.org
 WSLZ, http://www.northcountrypublicradio.org
 WSMC-FM, http://www.wsmc.org
