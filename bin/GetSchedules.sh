@@ -2,7 +2,7 @@
 # META =========================================================================
 # Title: GetSchedules.sh
 # Usage: GetSchedules.sh -i [station list file]
-# Description: Get program schedules for each NPR station.
+# Description: Get program schedules for each station.
 # Author: Colin Shea
 # Created: 2015-08-14
 # TODO:
